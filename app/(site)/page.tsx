@@ -10,7 +10,7 @@ export default async function Home() {
     //  bg-slate-200  text-black
     <div>
       <h1 className={`text-7xl font-bold text-gray-200`}>
-        Hello, I'm <span className={`bg-gradient-to-r bg-clip-text
+        Hello I&apos;m <span className={`bg-gradient-to-r bg-clip-text
         text-transparent from-red-500 to-blue-600`}>
          Erick
         </span>!
@@ -19,7 +19,6 @@ export default async function Home() {
       <p className={`mt-8 text-xl text-gray-200`}>
         An enthusiast of technology, specially Data Science and Software Development.<br/> Here are some of my Projects!
       </p>
-
       <h2 className={`mt-12 font-bold text-gray-200 text-3xl`}>
         My Projects
       </h2>
